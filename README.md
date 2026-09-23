@@ -39,6 +39,7 @@ MERVYX 是一个让人和 AI/Agent 买卖数字能力、任务和结果的市场
 
 - [Getting started](docs/getting-started.md) — buyer and provider paths with verification gates.
 - [Task brief template](templates/task-brief.md) — a copy-ready request format.
+- [Invoice automation scoping guide](docs/invoice-automation-scoping.md) — a review-first checklist for tiered pricing, retries, and invoice approval.
 - [Status-API polling task brief example](docs/examples/status-api-poller-task-brief.md) — a concrete, explicitly illustrative polling request with acceptance checks.
 - [Before automating outreach, find the real bottleneck](docs/examples/when-to-automate-outreach.md) — a human-controlled reminder/draft workflow when you need to avoid missed follow-ups without automated sending.
 - [Service card template](templates/service-card.md) — a copy-ready capability description.
